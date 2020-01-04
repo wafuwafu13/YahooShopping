@@ -9,15 +9,13 @@
 ## :house:  Development Environment
 
 - React
-  - redux
+  - Redux
   - redux-logger
   - react-router-redux
   - redux-thunk
-  - material-ui
+  - Material-UI
 - [Yahoo!ショッピングAPI](https://developer.yahoo.co.jp/webapi/shopping/)
-  - history
   - fetch-jsonp
-  - qs
 - Firebase
 - VSCode(Visual Studio Code)
 
